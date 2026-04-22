@@ -5,7 +5,7 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cindy-nabila-putri-193022181/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cindynabilaputri605@gmail.com)
-  [![Location](https://img.shields.io/badge/Semarang%2C_Indonesia-🇮🇩-informational?style=for-the-badge)](https://maps.google.com/?q=Semarang)
+  [![Location](https://img.shields.io/badge/Jakarta%2C_Indonesia-🇮🇩-informational?style=for-the-badge)](https://maps.google.com/?q=Jakarta)
 
 </div>
 
