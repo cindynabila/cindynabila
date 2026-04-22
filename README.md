@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 About Me
 
-🎓 **S1 Statistika** – Universitas Muhammadiyah Semarang (IPK 3.52)  
+🎓 **S1 Statistika** – Universitas Muhammadiyah Semarang (IPK 3.60)  
 📊 **D-III Statistika** – Universitas Negeri Padang (IPK 3.44)  
 🏢 Currently working as **Statistisi Intern** at BPS Provinsi Sumatera Barat  
 
